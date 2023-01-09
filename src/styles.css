@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-info {
+  border: 3px solid red;
+  width: 450px;
+  padding: 12px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-container {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin-left: 15px;
+}
